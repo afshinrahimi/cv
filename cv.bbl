@@ -1,0 +1,75 @@
+
+\cvitem{2018}
+{Dirk Hovy, Afshin Rahimi, Timothy Baldwin, and Julian Brooke.
+\newblock {\em Visualizing Regional Language Variation Across Europe on
+  Twitter}, pages 1--24.
+\newblock 2018.
+}
+\cvitem{2019}
+{Afshin Rahimi, Yuan Li, and Trevor Cohn.
+\newblock Multilingual ner transfer for low-resource languages.
+\newblock In {\em Proceedings of the 57th Annual Meeting of the Association for
+  Computational Linguistics, {ACL} 2019, Florence, Italy, (to appear)}, 2019.
+}
+\cvitem{2018}
+{Wei Xu, Alan Ritter, Tim Baldwin, and Afshin Rahimi.
+\newblock Proceedings of the 2018 emnlp workshop w-nut: The 4th workshop on
+  noisy user-generated text.
+\newblock In {\em Proceedings of the 2018 EMNLP Workshop W-NUT: The 4th
+  Workshop on Noisy User-generated Text}, 2018.
+}
+\cvitem{2018}
+{Afshin Rahimi, Timothy Baldwin, and Trevor Cohn.
+\newblock Semi-supervised user geolocation via graph convolutional networks.
+\newblock In {\em Proceedings of the 56th Annual Meeting of the Association for
+  Computational Linguistics, {ACL} 2018, Melbourne, Australia, July 15-20,
+  2018, Volume 1: Long Papers}, pages 2009--2019, 2018.
+}
+\cvitem{2018}
+{Afshin Rahimi.
+\newblock {\em Analysing the interplay of location, language and links
+  utilising geotagged Twitter content}.
+\newblock PhD thesis, 2018.
+}
+\cvitem{2018}
+{Taro Miyazaki, Afshin Rahimi, Trevor Cohn, and Timothy Baldwin.
+\newblock Twitter geolocation using knowledge-based methods.
+\newblock In {\em Proceedings of the 2018 EMNLP Workshop W-NUT: The 4th
+  Workshop on Noisy User-generated Text}, pages 7--16, 2018.
+}
+\cvitem{2017}
+{Afshin Rahimi, Trevor Cohn, and Timothy Baldwin.
+\newblock A neural model for user geolocation and lexical dialectology.
+\newblock In {\em Proceedings of the 55th Annual Meeting of the Association for
+  Computational Linguistics (ACL 2017)}, 2017.
+}
+\cvitem{2017}
+{Afshin Rahimi, Trevor Cohn, and Timothy Baldwin.
+\newblock Continuous representation of location for geolocation and lexical
+  dialectology using mixture density networks.
+\newblock In {\em Proceedings of the Proceedings of the 2017 Conference on
+  Empirical Methods in Natural Language Processing (EMNLP 2017) (to appear)},
+  2017.
+}
+\cvitem{2016}
+{Afshin Rahimi, Trevor Cohn, and Timothy Baldwin.
+\newblock pigeo: A python geotagging tool.
+\newblock {\em Proceedings of ACL-2016 System Demonstrations}, pages 127--132,
+  2016.
+}
+\cvitem{2015}
+{Afshin Rahimi, Duy Vu, Trevor Cohn, and Timothy Baldwin.
+\newblock Exploiting text and network context for geolocation of social media
+  users.
+\newblock In {\em Proceedings of the 2015 Conference of the North American
+  Chapter of the Association for Computational Linguistics --- Human Language
+  Technologies (NAACL HLT 2015)}, Denver, USA, 2015.
+}
+\cvitem{2015}
+{Afshin Rahimi, Trevor Cohn, and Timothy Baldwin.
+\newblock Twitter user geolocation using a unified text and network prediction
+  model.
+\newblock {\em Proceedings of the 53rd Annual Meeting of the Association for
+  Computational Linguistics --- 7th International Joint Conference on Natural
+  Language Processing (ACL-IJCNLP 2015)}, 2015.
+}
